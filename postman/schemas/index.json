@@ -44,7 +44,7 @@
                 }
             }
         },
-        "/git-v2": {
+        "/git-v1": {
             "get": {
                 "operationId": "listUser",
                 "responses": {
