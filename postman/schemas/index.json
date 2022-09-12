@@ -21,7 +21,7 @@
     "name" : "stored"
   } ],
   "paths" : {
-    "/user" : {
+    "/users" : {
       "get" : {
         "operationId" : "listUser",
         "responses" : {
