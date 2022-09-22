@@ -9,7 +9,7 @@ rootDirectory = postman/collections
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
-files[] = {"path":"index.json","metaData":{}}
+files[] = {"path":"index97d7a9ad-5e9b-4eaa-896d-640ddfd6dc72.json","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
